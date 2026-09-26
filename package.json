@@ -1,0 +1,20 @@
+{
+  "name": "oddly-contraptions",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "test": "node --experimental-strip-types --test tests/engine.test.ts",
+    "check": "npm run build && npm test",
+    "format": "prettier --write src tests index.html README.md",
+    "format:check": "prettier --check src tests index.html README.md"
+  },
+  "devDependencies": {
+    "prettier": "^3.9.9",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.1"
+  }
+}
