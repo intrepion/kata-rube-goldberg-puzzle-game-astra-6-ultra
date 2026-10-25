@@ -52,3 +52,7 @@ Browser validation covers keyboard placement/movement/rotation, pointer placemen
 - `tests/engine.test.ts`: Node's built-in test runner; no browser or test-service dependency.
 
 The simulation is intentionally playful: fans apply local forces, bumpers add spring energy, and a triggered domino row gives the marble a single kick. Wooden rails are fixed; the toolbox supplies the editable parts.
+
+## Play online
+
+[Play the hosted game](https://intrepion.github.io/kata-rube-goldberg-puzzle-game-astra-6-ultra/)
