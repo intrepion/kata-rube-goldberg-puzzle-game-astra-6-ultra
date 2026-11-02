@@ -1,6 +1,47 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "gameId": "kata-rube-goldberg-puzzle-game-astra-6-ultra",
   "playUrl": "https://intrepion.github.io/kata-rube-goldberg-puzzle-game-astra-6-ultra/",
-  "screenshots": []
+  "screenshots": [
+    {
+      "path": "arcade/screenshots/ci-20261102-01.jpg",
+      "sha256": "d67af1e80913aa71353193ab778155aa97facf86254c8a4857e6b25a31c31883",
+      "alt": "Oddly gameplay, view 1",
+      "provenance": {
+        "kind": "ci_gameplay_capture",
+        "sourcePath": "arcade/capture-evidence/ci-20261102-01.png",
+        "sourceSha256": "e3a2f8bc5b619f5993ab179b7730ca0b4cbbd5c815e72c16859295f5515b245d",
+        "captureCommit": "d5fbddfd136990a894d9d1ca35f9c4e869ae4ad0",
+        "workflowRunId": "41422177697",
+        "inputHashes": {
+          "index.html": "88addba0cd38fcb0627a4c7dbfb3c182becea48737ecbba40c6455a522aabce9",
+          "assets/index-C3R_CYVr.js": "61c1f1fa78e0b15c17accaf9028c43bcbb9e355ab223629ba56269792012923d",
+          "assets/index-KDALDXTi.css": "628b87311d7cad6c05eb3b4553e2e4b87fa8cc893e6a6d51ff0b058f588c9ea3"
+        },
+        "publishedFilesVerifiedAt": "2026-11-02T19:01:20Z",
+        "captureRecordPath": "arcade/capture-evidence/ci-20261102-record.json",
+        "captureRecordSha256": "df1f571281b1999add590a6eb8d9a4fd4c44d245ac300d6f4b1770282c62a38b"
+      }
+    },
+    {
+      "path": "arcade/screenshots/ci-20261102-02.jpg",
+      "sha256": "efbb8adc9ee02733d1dcaa22161daa58625d34c4805c32f43b63f05bfddda075",
+      "alt": "Oddly gameplay, view 2",
+      "provenance": {
+        "kind": "ci_gameplay_capture",
+        "sourcePath": "arcade/capture-evidence/ci-20261102-02.png",
+        "sourceSha256": "b055f738ff86aae74393d84b745d8a6af8a87df16b1c622ab7ba222a3ef940b5",
+        "captureCommit": "d5fbddfd136990a894d9d1ca35f9c4e869ae4ad0",
+        "workflowRunId": "41422177697",
+        "inputHashes": {
+          "index.html": "88addba0cd38fcb0627a4c7dbfb3c182becea48737ecbba40c6455a522aabce9",
+          "assets/index-C3R_CYVr.js": "61c1f1fa78e0b15c17accaf9028c43bcbb9e355ab223629ba56269792012923d",
+          "assets/index-KDALDXTi.css": "628b87311d7cad6c05eb3b4553e2e4b87fa8cc893e6a6d51ff0b058f588c9ea3"
+        },
+        "publishedFilesVerifiedAt": "2026-11-02T19:01:20Z",
+        "captureRecordPath": "arcade/capture-evidence/ci-20261102-record.json",
+        "captureRecordSha256": "df1f571281b1999add590a6eb8d9a4fd4c44d245ac300d6f4b1770282c62a38b"
+      }
+    }
+  ]
 }
