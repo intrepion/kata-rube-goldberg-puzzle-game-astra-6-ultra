@@ -56,3 +56,7 @@ The simulation is intentionally playful: fans apply local forces, bumpers add sp
 ## Play online
 
 [Play the hosted game](https://intrepion.github.io/kata-rube-goldberg-puzzle-game-astra-6-ultra/)
+
+## Arcade metadata
+
+See [docs/arcade-metadata.md](docs/arcade-metadata.md) for the game-owned manifest and screenshot provenance.
